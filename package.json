@@ -72,6 +72,7 @@
     "victory-errorbar": "35.0.0",
     "victory-group": "35.0.0",
     "victory-histogram": "35.0.0",
+    "d3-array": "2.3.3",
     "victory-legend": "35.0.0",
     "victory-line": "35.0.0",
     "victory-pie": "35.0.0",
